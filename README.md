@@ -1,3 +1,3 @@
 # Spanish-wine-dataset
 Answering some questions with the dataset
-comparing two classification models.
+ and comparing two classification models.
