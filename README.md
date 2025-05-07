@@ -7,5 +7,4 @@ The aim of the dataset is to provide information that can be used to model and p
 - Matplotlib
 - Seaborn
 - Sklearn
-- 
 
